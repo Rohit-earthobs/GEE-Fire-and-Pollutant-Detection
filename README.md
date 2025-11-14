@@ -1,5 +1,5 @@
-# Remote Sensing of the Forest Fire Pollutant Flow of the 2019 Australian Bushfires
-
+# Google Earth Engine Fire Detection and Pollutant Flow Analysis 
+## Remote Sensing of the Forest Fire Pollutant Flow of the 2019 Australian Bushfires
 ## Overview
 This project analyzes the spread of forest fire pollutants (FFP) from the 2019 Australian bushfires using remote sensing data. The study focuses on tracking carbon monoxide (CO), nitrogen dioxide (NO₂), and particulate matter (PM) to understand how pollutants disperse through the atmosphere and impact Earth system processes.
 
