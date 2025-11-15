@@ -12,8 +12,8 @@ Eastern Australia, one of the most fire-prone regions globally, dominated by euc
 ## Methodology
 - Collected satellite-based data of CO, NO₂, and PM from the 2019 bushfire events.  
 - Processed and visualized the data using Google Earth Engine (GEE).  
-- Analyzed pollutant flow patterns based on global wind trajectories and atmospheric dynamics.  
-- Evaluated interconnections between fire intensity, pollutant load, and dispersion.
+- Analyzed pollutant flow patterns. 
+- Evaluated interconnections between fire intensity, and pollutant load.
 
 ## Tools and Datasets
 - Google Earth Engine (GEE)  
